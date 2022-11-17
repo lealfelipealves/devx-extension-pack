@@ -1,6 +1,7 @@
 {
   "name": "devx-extension-pack",
   "displayName": "DevX Extension Pack",
+  "publisher": "DevExtensionPack",
   "description": "",
   "version": "0.0.1",
   "repository": {
