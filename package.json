@@ -1,6 +1,6 @@
 {
-  "name": "dev-extension-pack",
-  "displayName": "Dev Extension Pack",
+  "name": "devx-extension-pack",
+  "displayName": "DevX Extension Pack",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -11,6 +11,7 @@
   ],
   "extensionPack": [ 
     "2gua.rainbow-brackets", 
+    "bradlc.vscode-tailwindcss", 
     "burkeholland.simple-react-snippets", 
     "ChakrounAnas.turbo-console-log", 
     "christian-kohler.path-intellisense", 
@@ -23,7 +24,9 @@
     "formulahendry.auto-close-tag", 
     "formulahendry.auto-rename-tag", 
     "GitHub.copilot", 
+    "lihui.vs-color-picker", 
     "mechatroner.rainbow-csv", 
+    "mkxml.vscode-filesize", 
     "ms-azuretools.vscode-docker", 
     "MS-CEINTL.vscode-language-pack-pt-BR", 
     "ms-vsliveshare.vsliveshare", 
@@ -32,9 +35,12 @@
     "oderwat.indent-rainbow", 
     "PKief.material-icon-theme", 
     "ritwickdey.LiveServer", 
+    "rocketseat.rocketseatreactjs", 
     "rocketseat.theme-omni", 
     "SirTori.indenticator", 
     "styled-components.vscode-styled-components", 
+    "Tyriar.sort-lines", 
+    "ue.alphabetical-sorter", 
     "waderyan.gitblame", 
     "wix.vscode-import-cost", 
     "wmaurer.change-case"

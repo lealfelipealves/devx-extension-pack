@@ -1,4 +1,4 @@
-# dev-extension-pack README
+# devx-extension-pack README
 
 ## Working with Markdown
 
