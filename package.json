@@ -1,0 +1,42 @@
+{
+  "name": "dev-extension-pack",
+  "displayName": "Dev Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "2gua.rainbow-brackets", 
+    "burkeholland.simple-react-snippets", 
+    "ChakrounAnas.turbo-console-log", 
+    "christian-kohler.path-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "dotenv.dotenv-vscode", 
+    "dsznajder.es7-react-js-snippets", 
+    "eamodio.gitlens", 
+    "EditorConfig.EditorConfig", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.auto-close-tag", 
+    "formulahendry.auto-rename-tag", 
+    "GitHub.copilot", 
+    "mechatroner.rainbow-csv", 
+    "ms-azuretools.vscode-docker", 
+    "MS-CEINTL.vscode-language-pack-pt-BR", 
+    "ms-vsliveshare.vsliveshare", 
+    "natqe.reload", 
+    "naumovs.color-highlight", 
+    "oderwat.indent-rainbow", 
+    "PKief.material-icon-theme", 
+    "ritwickdey.LiveServer", 
+    "rocketseat.theme-omni", 
+    "SirTori.indenticator", 
+    "styled-components.vscode-styled-components", 
+    "waderyan.gitblame", 
+    "wix.vscode-import-cost", 
+    "wmaurer.change-case"
+  ]
+}
